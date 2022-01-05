@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm sujit kumar</h1>
 <h3 align="center">I am Full Stack Web-developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujitkumarmasai&label=Profile%20views&color=0e75b6&style=flat" alt="sujitkumarmasai" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujitkumarmasai" alt="sujitkumarmasai" /></a> </p>
-
 - 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sujitkumarmasai/sujitkumarmasai](https://github.com/sujitkumarmasai/sujitkumarmasai)
@@ -31,3 +27,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujitkumarmasai&" alt="sujitkumarmasai" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujitkumarmasai&label=Profile%20views&color=0e75b6&style=flat" alt="sujitkumarmasai" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujitkumarmasai" alt="sujitkumarmasai" /></a> </p>
