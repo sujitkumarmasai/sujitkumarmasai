@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sujitkumarmasai/sujitkumarmasai](https://github.com/sujitkumarmasai/sujitkumarmasai)
+- 👨‍💻 All of my projects are available at [https://my-all-detail-of-portfolio.vercel.app)
 
 - 💬 Ask me about **MERN stack & DSA**
 
