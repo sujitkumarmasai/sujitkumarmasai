@@ -2,6 +2,8 @@
 <h1 align="center">I am Full Stack Web-developer</h1>
 <!-- <br/> -->
 
+I am a detail-oriented Full Stack Web Developer with excellent technical skills, and proficiency in MERN stack. Extremely passionate about building appealing and dynamic products that provide great user experiences. Looking for opportunity to creating a mark within a product-based company based on the acquired skillset and passion for coding.
+
 - 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **MERN stack & DSA**
