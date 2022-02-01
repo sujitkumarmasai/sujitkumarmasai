@@ -7,10 +7,9 @@
 - 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **MERN stack & DSA**
-<!-- 
-- 📫 How to reach me **sujitkmr1098@gmail.com** -->
 
 - ⚡ Fun fact **when I heard first time about JS and java I was assuming JS and java as same language**
+- 👨‍💻 All of my projects are available at [Check My Portfolio](https://sujit-kumar-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
