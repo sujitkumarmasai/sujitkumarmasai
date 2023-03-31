@@ -88,9 +88,9 @@
  
  ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Abhijeet9242">
+    <img src="https://komarev.com/ghpvc/?username=sujitkumarmasai">
 </a>
-<a href="https://github.com/Abhijeet9242?tab=followers"><img src="https://img.shields.io/github/followers/Abhijeet9242?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/sujitkumarmasai?tab=followers"><img src="https://img.shields.io/github/followers/sujitkumarmasai?label=Followers&style=social" alt="GitHub Badge"></a>
  
  <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
