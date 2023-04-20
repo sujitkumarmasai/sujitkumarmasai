@@ -70,13 +70,13 @@
 
 ## Contact Me ☎️
 <p align="left">
-
+ 
 
  * Mail me on sujitkmr1098@gmail.com
 
 </p>
  
-   <li align="left">
+ <li align="left">
     <a href="https://www.linkedin.com/in/sujit-kumar-dev/">Linkedin</a>
  </li>
  
